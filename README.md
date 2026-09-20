@@ -1,5 +1,5 @@
 ## Hi, I'm Sasikumar Varadharajan 👋
-Solutions Engineer @ Dell | Agentic AI | LLM Engineer
+Networking & AI Solutions Engineer @ Dell | Customer Deployments | Agentic AI | MCP | AI Trainer
 
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sasikumarvaradharajan/)
